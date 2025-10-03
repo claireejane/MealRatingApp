@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Korean Beef",
+        "rating": 10,
+        "prep_time": 35
+    },
+    {
+        "name": "Sushi",
+        "rating": 8,
+        "prep_time": 30
+    }
+]
